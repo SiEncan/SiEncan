@@ -21,7 +21,7 @@
 ---
 
 ## 💻 Core Development Focus  
-📱 **Mobile App Development:** Creating seamless Android apps using Flutter & Firebase  
+📱  **Mobile App Development:** Creating seamless Android apps using Flutter & Firebase  
 🌐 **Web Development:** Building responsive and user-friendly websites with React, Next.js, and Tailwind CSS  
 🧩 **Backend Integration:** Managing authentication, API connections, and databases using Prisma, Firebase, and PostgreSQL  
 🧱 **System Architecture:** Structuring clean and maintainable codebases for scalability  
