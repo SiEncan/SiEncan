@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects
 
 - 🏟 **[ArenaKu](https://github.com/siencan/ArenaKu)**  
-  A **sports field booking platform** built with **Next.js**, **PostgreSQL**, and **Prisma**, featuring **Midtrans payment integration** and multi-owner support.
+  **Sports field booking platform** built with **Next.js**, **PostgreSQL**, and **Prisma**, featuring **Midtrans payment integration** and multi-owner support.
 
 - 💰 **[T-Cash](https://github.com/siencan/T-Cash)**  
   An **e-wallet mobile app** made with **Flutter** and **Firebase**, supporting authentication, balance tracking, and QR-based transactions.
@@ -18,6 +18,8 @@
 - 💇‍♀️ **[Angelic Salon & Spa](https://github.com/siencan/angelic-salon)**  
   A **salon booking website** built using **React**, **Firebase**, and **Tailwind CSS**, with separate admin and customer dashboards.
 
+- 💬 **[T-Space](https://github.com/SiEncan/T-Space)**  
+  Simple online forum built with Laravel, featuring user authentication, profile management, and discussion threads for university students.
 ---
 
 ## 💻 Core Development Focus  
