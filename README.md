@@ -20,6 +20,9 @@
 
 - 💬 **[T-Space](https://github.com/SiEncan/T-Space)**  
   Simple online forum built with Laravel, featuring user authentication, profile management, and discussion threads for university students.
+
+- 💬 **[Prambors Discord Bot](https://github.com/SiEncan/prambors-discord-bot)**  
+  A Discord bot that lets users stream Radio Prambors and search song lyrics directly from Discord.
 ---
 
 ## 💻 Core Development Focus  
