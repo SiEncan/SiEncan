@@ -16,6 +16,9 @@
 - 💰 **[T-Cash](https://github.com/siencan/T-Cash)**  
   An **e-wallet mobile app** made with **Flutter** and **Firebase**, supporting authentication, balance tracking, and QR-based transactions.
 
+- 📠 **[KasirGo](https://github.com/SiEncan/KasirGo)**  
+  A modern, aesthetically pleasing mobile POS application built with **Flutter** and **Django** designed to streamline retail operations with smart caching and robust state management.
+  
 - 💇‍♀️ **[Angelic Salon & Spa](https://github.com/siencan/angelic-salon)**  
   A **salon booking website** built using **React**, **Firebase**, and **Tailwind CSS**, with separate admin and customer dashboards.
 
