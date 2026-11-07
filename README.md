@@ -25,7 +25,7 @@
 - 💬 **[T-Space](https://github.com/SiEncan/T-Space)**  
   Simple online forum built with Laravel, featuring user authentication, profile management, and discussion threads for university students.
 
-- ⏱️ **[KiraCRM]([https://github.com/SiEncan/prambors-discord-bot](https://github.com/SiEncan/KiraCRM))**  
+- ⏱️ **[KiraCRM](https://github.com/SiEncan/KiraCRM)**  
   Aplikasi web untuk memperkirakan waktu penyelesaian pengaduan Cepat Respon Masyarakat (CRM) di Jakarta Selatan.
 ---
 
